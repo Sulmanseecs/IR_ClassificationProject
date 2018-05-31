@@ -1,0 +1,26 @@
+Sulman Shaukat  206826
+
+Adnan Saghir 	203606
+ 
+M. Jawwad	203885
+
+
+ACCURACY
+
+**** dbWorld ****
+
+KNN	80%
+
+ROCHIO	90%
+
+NaiveB	70%
+
+
+**** SentenceCorpus ****
+
+KNN	84%
+
+ROCHIO	80%
+
+NaiveB	75%
+
